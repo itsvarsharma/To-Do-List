@@ -1,0 +1,40 @@
+html,body{
+    background-color: rgb(255, 251, 232);
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 360px;
+}
+#AddToDo{
+    /* margin: 50px; */
+    background-color: rgb(230, 225, 170);
+    font-size: 25px;
+    border: 2px;
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+    box-shadow: 1px 5px 5px 1px  rgb(243, 238, 215);
+    border-radius: 10px 10px 10px 10px;
+}
+#inputField {
+    width: 300px;
+    height: 46px;
+    border: 0px ;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 2px 2px 20px 0px rgb(245, 236, 194);
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.to-dos{
+    margin-top: 25px;
+}
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 23px;
+}
